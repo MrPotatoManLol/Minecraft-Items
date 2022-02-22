@@ -1,2 +1,2 @@
-# Minecraft-Items
-Every. Single. Minecraft. Item.
+# Minecraft Things
+For all things Minecraft.
